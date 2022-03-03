@@ -1,0 +1,4 @@
+Product,Price
+Couch,1000.12
+Tv,999.99
+Lamp,19.99
